@@ -1,7 +1,7 @@
 name: Green Local Sleeve
 favicon: null
-layout_spectrum: 0.048533106688410044
-typography_spectrum: 0.8622129673603922
+layout_spectrum: 0.96638
+typography_spectrum: 0.35531
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9553190008737147
-  lightness: 0.5653338201809675
-  saturation: 0.41127114929258823
-  rhythmicContrast: 0.29693357553333044
+    - '#ffffff'
+    - '#bdbdab'
+    - '#1a1a1a'
+    - '#676663'
+    - '#8c8c7e'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
